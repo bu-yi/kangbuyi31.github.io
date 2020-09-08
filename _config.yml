@@ -1,7 +1,8 @@
 # Site
 name: "bu-yi"
 title: "안녕하세용"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+# description: ""
+description: "안뇽"
 logo: 'assets/images/logo.png' 
 favicon: 'assets/images/logo.png'
 baseurl: "https://kangbuyi31.github.io"
